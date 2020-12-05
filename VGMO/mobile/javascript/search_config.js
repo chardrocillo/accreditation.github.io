@@ -1,0 +1,1 @@
+﻿var textForPages = ["CvSU                                                    VISION                                                               and                                                        MISSION","","","","","","","","","","","","","","",""];
